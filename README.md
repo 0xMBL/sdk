@@ -82,7 +82,7 @@ how to use the SDK to build web apps using Aleo.
 
 #### [Aleo Wasm Readme](https://github.com/AleoHQ/sdk/tree/testnet3/wasm#readme)
 The Aleo Wasm Readme provides instructions for compiling the Aleo Wasm crate and using it in web projects. Those who
-want to build from source or create their own WebAssembly bindings should start here
+want to build from source or create their own WebAssembly bindings should start here.
 
 ## ❤️ Contributors
 
